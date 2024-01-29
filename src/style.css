@@ -15,7 +15,7 @@ p {
   text-align: justify;
 }
 
-.btn{
+.btn, a{
 background-color: white;
 padding: 7px;
 color: #F31756;
