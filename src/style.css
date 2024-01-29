@@ -1,0 +1,33 @@
+body {
+  background-color: #F31756;
+}
+
+h1, h2, h3 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+  color: white;
+  text-align: justify;
+}
+
+.btn{
+background-color: white;
+padding: 7px;
+color: #F31756;
+text-decoration:none;
+font-weight: bold;
+}
+
+li{
+color:white;
+font-size: 12px;
+text-align: left;
+font-weight: normal;
+font-family: arial;
+}
+
